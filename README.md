@@ -199,4 +199,5 @@ This project is released under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 
-**Khubaib Muhammad**
+**Khubaib Muhammad** :https://github.com/Khubaib-Muhammad
+**Kashan Maqsood** : https://github.com/KashanMaqsood
