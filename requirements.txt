@@ -1,0 +1,15 @@
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+pydicom
+tqdm
+scikit-learn
+torch
+torchvision
+albumentations
+timm
+torchmetrics
+netcal
